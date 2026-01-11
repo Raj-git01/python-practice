@@ -1,0 +1,9 @@
+city='chennai'
+print(city)
+
+a=4
+b=10
+sum= a+b
+diff = a-b
+mult= a*b
+print(sum , diff, mult)
